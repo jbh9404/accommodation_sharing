@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp_plugin_tutorial-1.0\n"
+"POT-Creation-Date: 2015-06-23 01:58+0900\n"
+"PO-Revision-Date: 2015-06-23 02:00+0900\n"
+"Last-Translator: changwoo <ep6tri@hotmail.com>\n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../callbacks.php:153
+msgid "Tutorial Meta #1"
+msgstr "튜토리얼 메타 #1"
+
+#: ../plugin-main.php:120 ../plugin-main.php:121
+msgid "WPT"
+msgstr "워플튜"
+
+#: ../plugin-main.php:135 ../plugin-main.php:136
+msgid "Submenu #1"
+msgstr "서브메뉴 #1"
+
+#: ../plugin-main.php:144 ../plugin-main.php:145
+msgid "Submenu #2"
+msgstr "서브메뉴 #2"
+
+#: ../plugin-main.php:162 ../plugin-main.php:163
+msgid "Tutorial Option"
+msgstr "튜토리얼 옵션"
+
+#: ../plugin-main.php:194
+msgid "Tutorial Plugin Section"
+msgstr "튜토리얼 플러그인 섹션"
+
+#: ../plugin-main.php:205
+msgid "Tutorial Plugin Field"
+msgstr "튜토리얼 플러그인 필드"
+
+#: ../plugin-main.php:299
+msgid "/Add New/"
+msgstr "/새로 작성/"
+
+#: ../plugin-main.php:300
+msgid "New Tutorial"
+msgstr "새 튜토리얼"
+
+#: ../plugin-main.php:301
+msgid "All Tutorials"
+msgstr "모든 튜토리얼"
+
+#: ../plugin-main.php:302
+msgid "Edit Tutorial"
+msgstr "튜토리얼 편집"
+
+#: ../plugin-main.php:303
+msgid "View Tutorial"
+msgstr "튜토리얼 보기"
+
+#: ../plugin-main.php:304
+msgid "!Search Tutorial"
+msgstr "!튜토리얼 검색"
+
+#: ../plugin-main.php:305
+msgid "No tutorial found "
+msgstr "튜토리얼 없음"
+
+#: ../plugin-main.php:306
+msgid "No tutorial found in Trash"
+msgstr "휴지통에 튜토리얼이 없음"
+
+#: ../plugin-main.php:307
+msgid "Parent Tutorial:"
+msgstr "부모 튜토리얼:"
+
+#: ../include/main-menu.php:2
+msgid "Hello, World!"
+msgstr "안녕, 세상!"
+
+#~ msgid "WordPress Plugin Tutorial"
+#~ msgstr "워드프레스 플러그인 튜토리얼"
